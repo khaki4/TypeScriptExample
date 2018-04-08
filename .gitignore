@@ -76,3 +76,5 @@ fabric.properties
 
 .idea/
 # End of https://www.gitignore.io/api/webstorm,visualstudiocode
+
+/**/*.js
